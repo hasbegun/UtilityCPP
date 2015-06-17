@@ -6,7 +6,10 @@ a collection of short cpp files that come handy
 - gnu c and cpp compiler
 
 # Compile
+Just get into the dir: such as lagrange.
+
 ```
+cd lagrange
 cmake .
 make
 ```
